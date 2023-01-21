@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Logic
   - Collider2D
+  - winganimation
   layers:
   - Default
   - TransparentFX
