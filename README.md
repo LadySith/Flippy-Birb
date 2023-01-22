@@ -1,2 +1,2 @@
-# Flippy-Birb
-A game called Flippy Birb
+# Flappu
+A game called Flappu
